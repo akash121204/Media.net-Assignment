@@ -1,0 +1,225 @@
+.pic-container {
+  background-image: url("./../assets/images/cat-wallpaper.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.pic-div {
+  margin-top: 37%;
+  opacity: 0.9;
+  background: #31d7b9;
+}
+
+.pic-first-div {
+  margin-top: 15px;
+  font-family: "Berkshire Swash", cursive;
+  color: white;
+}
+
+@media screen and (max-width: 767px) {
+  .pic-div {
+    margin-top: 0;
+  }
+}
+
+.msg {
+  font-size: 20px;
+}
+
+.small-pic {
+  width: 100%;
+  height: 100%;
+}
+
+.second-div {
+  border-radius: 10px;
+  background: white;
+  margin-top: 16px;
+}
+
+.first-second-div {
+  padding-top: 20px;
+}
+
+.continue-btn {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: black;
+  font-weight: bold;
+  width: 100%;
+}
+
+.continue-msg {
+  font-size: 10px;
+  margin-top: 5px;
+}
+
+.continue-forward-icon {
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.pet-lover-div {
+  background: #e8f8f2;
+}
+
+.pet-lover-img {
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+
+.pet-lover-description {
+  font-size: 18px;
+  color: #38756b;
+}
+
+.pet-lover-content {
+  margin-top: 24px;
+}
+
+.check-out-div {
+  text-align: center;
+  margin-top: 48px;
+  margin-bottom: 24px;
+  color: lightgray;
+}
+
+.featues-div {
+  background: #ccf1e3;
+}
+
+.features-content {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.tabs-link {
+  color: #0c334d;
+}
+
+.page-footer {
+  padding-top: 10px;
+}
+
+.contact-us-div {
+  background: #31d7b9;
+}
+
+.conttactus-content {
+  padding-bottom: 5%;
+  color: #0c334d;
+  text-align: center;
+  margin-top: 24px;
+  text-align: center;
+  font-weight: 100;
+  font-family: "Roboto", sans-serif;
+}
+
+.contactus-tabs {
+  padding-left: 25%;
+  border-top: 2px solid #0c334d;
+}
+
+.feedback-div {
+  background: #e8f8f2;
+  display: none;
+}
+
+.feedback-heading {
+  margin-top: 30px;
+  text-align: center;
+  color: #166062;
+  font-family: "Roboto", sans-serif;
+}
+
+.feedback-subheading {
+  text-align: center;
+  color: #858e8a;
+}
+
+.feedback-form {
+  margin-top: 40px;
+}
+
+.feedback-input {
+  background: #ccf1e4;
+  color: #75ada7;
+  border: 1px solid #ccf1e4;
+}
+
+.send-btn {
+  background: #1b7485;
+  color: white;
+}
+
+.chrome-class {
+  margin-right: 24px;
+}
+
+.safari-class {
+  margin-right: 24px;
+}
+
+.firefox-class {
+  margin-left: 24px;
+}
+
+.edge-class {
+  margin-top: 50%;
+}
+
+.other-class {
+  margin-top: 25%;
+}
+
+.card-layout {
+  background: #2190a6;
+  margin-top: 15px;
+  height: 25rem;
+  text-align: center;
+  border-radius: 16px;
+}
+
+.card-body {
+  color: white;
+}
+
+.icon {
+  border-radius: 50%;
+  border: 1x solid grey;
+  padding: 10px;
+  border: 2px solid #00ffff;
+  font-size: 22px;
+  color: #00ffff;
+}
+
+.heading {
+  color: #0c334d;
+  text-align: center;
+  margin-top: 24px;
+  font-family: "Berkshire Swash", cursive;
+}
+
+.contactus-heading {
+  color: #e8f8f2;
+  text-align: center;
+  padding-top: 2%;
+  font-family: "Berkshire Swash", cursive;
+}
+
+.card-text {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card-icon {
+  padding: 16px;
+}
+
+.downloadModal {
+  width: 100%;
+}
